@@ -1,6 +1,9 @@
 # Gradle files
 .gradle/
-build/
+build/dependencies ‹
+implementation 'com.mysql:mysql-
+connector-java: 8.0.22'
+｝
 
 # Local configuration file (sdk path, etc)
 local.properties
