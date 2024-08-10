@@ -3,8 +3,7 @@
   "private": true,
   "description": "A GitHub Action for installing, configuring and running Android Emulators on hardware-accelerated runners.",
   "main": "lib/main.js",
-  "scripts": {
-    "build": "tsc",
+  "scripts": { "build": "tsc"
     "test": "tsc --noEmit && jest",
     "lint": "eslint . --ext .ts"
   },
